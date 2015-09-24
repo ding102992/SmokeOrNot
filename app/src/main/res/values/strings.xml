@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">抽或不抽</string>
+
+    <string name="tip_smoked">抽了</string>
+    <string name="tip_not_smoked">没抽</string>
+    <string name="do_smoke">抽</string>
+    <string name="doNotSmoke">不抽</string>
+    <string name="intent_smoke_tip">你的决定会逐渐让你丧失选择的权利</string>
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+    <string name="total">总计</string>
+</resources>
